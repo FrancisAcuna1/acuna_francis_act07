@@ -1,0 +1,66 @@
+body{
+    background-color: whitesmoke;
+}
+img{
+    margin-top: -10px;
+    margin-bottom: -100px;
+}
+
+h2{
+    margin-top: 50px;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 0px 4px 8px 15px rgba(43, 36, 36, 0.2);
+    max-width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    font-family: arial;
+}
+
+.title {
+    color: grey;
+    font-size: 18px;
+}
+
+
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+
+button:hover, .txthover:hover{
+    background-color: rgb(240, 210, 170);
+    color:#000;
+}
+
+
+/* about.html css style */
+.container{
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+h1{
+    margin-top: 50px;
+}
+.btn{
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 90px;
+    padding: 15px;
+    font-size: 15px;
+}
+.btn:hover{
+    background-color: red;
+}
